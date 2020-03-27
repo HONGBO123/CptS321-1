@@ -1,0 +1,10 @@
+D:\Nolen\Documents\Computer Science\cpts_321\hw3\hw3\bin\Debug\hw3.exe
+D:\Nolen\Documents\Computer Science\cpts_321\hw3\hw3\obj\Debug\hw3.csprojResolveAssemblyReference.cache
+D:\Nolen\Documents\Computer Science\cpts_321\hw3\hw3\obj\Debug\NotepadApp.Form1.resources
+D:\Nolen\Documents\Computer Science\cpts_321\hw3\hw3\obj\Debug\hw3.csproj.GenerateResource.Cache
+D:\Nolen\Documents\Computer Science\cpts_321\hw3\hw3\bin\Debug\NotepadApp.exe.config
+D:\Nolen\Documents\Computer Science\cpts_321\hw3\hw3\bin\Debug\NotepadApp.exe
+D:\Nolen\Documents\Computer Science\cpts_321\hw3\hw3\bin\Debug\NotepadApp.pdb
+D:\Nolen\Documents\Computer Science\cpts_321\hw3\hw3\obj\Debug\NotepadApp.Properties.Resources.resources
+D:\Nolen\Documents\Computer Science\cpts_321\hw3\hw3\obj\Debug\NotepadApp.exe
+D:\Nolen\Documents\Computer Science\cpts_321\hw3\hw3\obj\Debug\NotepadApp.pdb

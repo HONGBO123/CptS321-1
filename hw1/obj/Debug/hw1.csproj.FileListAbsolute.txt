@@ -1,0 +1,7 @@
+D:\Nolen\Documents\Computer Science\cpts_321\hw1\bin\Debug\hw1.exe.config
+D:\Nolen\Documents\Computer Science\cpts_321\hw1\bin\Debug\hw1.exe
+D:\Nolen\Documents\Computer Science\cpts_321\hw1\bin\Debug\hw1.pdb
+D:\Nolen\Documents\Computer Science\cpts_321\hw1\obj\Debug\hw1.exe
+D:\Nolen\Documents\Computer Science\cpts_321\hw1\obj\Debug\hw1.pdb
+D:\Nolen\Documents\Computer Science\cpts_321\hw1\obj\Debug\hw1.csprojAssemblyReference.cache
+D:\Nolen\Documents\Computer Science\cpts_321\hw1\obj\Debug\hw1.csproj.CoreCompileInputs.cache

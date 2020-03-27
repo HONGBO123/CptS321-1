@@ -1,0 +1,9 @@
+D:\Nolen\Documents\Computer Science\cpts_321\young_hw2\bin\Debug\young_hw2.exe.config
+D:\Nolen\Documents\Computer Science\cpts_321\young_hw2\bin\Debug\young_hw2.exe
+D:\Nolen\Documents\Computer Science\cpts_321\young_hw2\bin\Debug\young_hw2.pdb
+D:\Nolen\Documents\Computer Science\cpts_321\young_hw2\obj\Debug\young_hw2.csprojResolveAssemblyReference.cache
+D:\Nolen\Documents\Computer Science\cpts_321\young_hw2\obj\Debug\young_hw2.Form1.resources
+D:\Nolen\Documents\Computer Science\cpts_321\young_hw2\obj\Debug\young_hw2.Properties.Resources.resources
+D:\Nolen\Documents\Computer Science\cpts_321\young_hw2\obj\Debug\young_hw2.csproj.GenerateResource.Cache
+D:\Nolen\Documents\Computer Science\cpts_321\young_hw2\obj\Debug\young_hw2.exe
+D:\Nolen\Documents\Computer Science\cpts_321\young_hw2\obj\Debug\young_hw2.pdb

@@ -1,0 +1,9 @@
+D:\Nolen\Documents\Computer Science\cpts_321\hw4\SpreadsheetEngine\bin\Debug\netstandard2.0\SpreadsheetEngine.deps.json
+D:\Nolen\Documents\Computer Science\cpts_321\hw4\SpreadsheetEngine\bin\Debug\netstandard2.0\SpreadsheetEngine.dll
+D:\Nolen\Documents\Computer Science\cpts_321\hw4\SpreadsheetEngine\bin\Debug\netstandard2.0\SpreadsheetEngine.pdb
+D:\Nolen\Documents\Computer Science\cpts_321\hw4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.csprojAssemblyReference.cache
+D:\Nolen\Documents\Computer Science\cpts_321\hw4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+D:\Nolen\Documents\Computer Science\cpts_321\hw4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.AssemblyInfoInputs.cache
+D:\Nolen\Documents\Computer Science\cpts_321\hw4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.AssemblyInfo.cs
+D:\Nolen\Documents\Computer Science\cpts_321\hw4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.dll
+D:\Nolen\Documents\Computer Science\cpts_321\hw4\SpreadsheetEngine\obj\Debug\netstandard2.0\SpreadsheetEngine.pdb
